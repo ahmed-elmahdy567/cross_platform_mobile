@@ -1,7 +1,4 @@
 function login(){
-  console.log('login')
-}
-
-function login2(){
+  // add token to header
   console.log('login')
 }
