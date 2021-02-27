@@ -1,3 +1,3 @@
 function Chat(){
-  this.socket = 'bla bla'
+  console.log('chat')
 }
